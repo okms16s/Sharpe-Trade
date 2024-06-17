@@ -1,0 +1,22 @@
+:root {
+  --dark: #252930;
+  --light-dark: #414753;
+  --primary: #00f6ff;
+  --dark-primary: #117b8b;
+  --secondary: #24304b;
+  --success: #55ef64;
+  --dark-success: #108e5e;
+  --danger: #fd0707;
+  --dark-danger: #be3b4e;
+  --light: #e9ebee;
+  --black: #161a1e;
+  --gray: #b7bdc6;
+}
+
+h5 {
+  font-size: 14px !important;
+}
+
+h6 {
+  font-size: 11px !important;
+}
